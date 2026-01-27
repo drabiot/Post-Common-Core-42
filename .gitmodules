@@ -4,3 +4,6 @@
 [submodule "Graphics & Gaming/scop"]
 	path = Graphics & Gaming/scop
 	url = git@github.com:drabiot/scop.git
+[submodule "Algo & IA & Data/ft_linear_regression"]
+	path = Algo & IA & Data/ft_linear_regression
+	url = git@github.com:drabiot/ft_linear_regression
