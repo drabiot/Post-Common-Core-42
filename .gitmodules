@@ -1,3 +1,6 @@
 [submodule "Graphic & Gaming/scop"]
 	path = Graphic & Gaming/scop
 	url = git@github.com:drabiot/scop
+[submodule "Graphics & Gaming/scop"]
+	path = Graphics & Gaming/scop
+	url = git@github.com:drabiot/scop.git
