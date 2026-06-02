@@ -10,3 +10,6 @@
 [submodule "Low Level/libasm"]
 	path = Low Level/libasm
 	url = git@github.com:drabiot/libasm.git
+[submodule "Algo & IA & Data/Matrix"]
+	path = Algo & IA & Data/Matrix
+	url = git@github.com:drabiot/matrix.git
